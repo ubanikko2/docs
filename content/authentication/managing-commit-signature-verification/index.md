@@ -26,4 +26,6 @@ children:
   - /signing-tags
 shortTitle: Verify commit signatures
 ---
-
+git remote add origin git@github.com:ubanikko2/furry-octo-goggles-Nikko-Uba.git
+git branch -M Nikko_Cabañas_Uba
+git push -u origin Nikko_Cabañas_Uba
